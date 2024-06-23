@@ -1122,7 +1122,7 @@ h3.title,h2.title{
 .slid p {
     margin: 2em auto 0;
     width: 73%;
-    font-size: 1em;
+    font-size: 0.5em;
 }
 .b-animate-go:hover .b-from-left {
     left: 44%;
@@ -1816,7 +1816,7 @@ h3.title,h2.title{
 }
 .slid p {
     margin: 0.5em auto 0;
-    font-size: 0.9em;
+    font-size: 0.5em;
 }
 .portfolio-modal .modal-content h3 {
     font-size: 2em;
